@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+.toolchain/
+captures/
+.externalNativeBuild/
+.cxx/
+dist/*.apk
+test-artifacts/
