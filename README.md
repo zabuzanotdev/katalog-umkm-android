@@ -67,7 +67,6 @@ Belum ada login pembeli, payment gateway, atau push notification. Admin tetap le
 
 ## Tampilan
 
-Screenshot dari ZTE 9047, Android 12.
 
 | Beranda | Katalog | Detail produk | Keranjang |
 |:---:|:---:|:---:|:---:|
